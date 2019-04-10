@@ -1,3 +1,5 @@
+#THIS PROGRAM WAS WRITTEN AS PART OF UDACITY'S PROGRAMMING FOR DATA SCIENCE NANO DEGREE
+
 import time
 import pandas as pd
 import numpy as np
