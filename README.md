@@ -1,2 +1,2 @@
-# BikeShareDataAnalyses
-A Python data analyses program
+# BikeShareDataAnalysis
+A Python data analysis program
